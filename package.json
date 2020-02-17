@@ -1,0 +1,24 @@
+{
+  "name": "mtg-to-airtable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engyii/mtg-to-airtable.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/engyii/mtg-to-airtable/issues"
+  },
+  "homepage": "https://github.com/engyii/mtg-to-airtable#readme",
+  "dependencies": {
+    "airtable": "^0.8.1",
+    "axios": "^0.19.2",
+    "lodash": "^4.17.15"
+  }
+}
